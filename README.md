@@ -1,0 +1,1 @@
+This Repo contains example projects of some of my work. Contents are predominently either Statistical Analysis and Machine Learning in Python, or Power Bi reports. This space will expand as my I add more example projects, with the aim to display a comprehensive showcase of my skills and abilities. 
